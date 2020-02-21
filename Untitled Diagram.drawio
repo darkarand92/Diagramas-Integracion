@@ -1,1 +1,55 @@
-<mxfile host="www.draw.io" modified="2020-02-21T19:58:13.614Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.7.3" etag="3VnypMCVntQo-24LtI9g" type="github"><diagram id="6JOjeYANiyz9y3WlFwlR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-21T20:00:02.405Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="XBEai7svma13GQfs9XgJ" version="12.7.3" type="github">
+  <diagram id="6JOjeYANiyz9y3WlFwlR" name="Page-1">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-6" value="&lt;span style=&quot;font-size: 12px ; white-space: nowrap&quot;&gt;Ciudades SAPS-HUB (Destino)&lt;/span&gt;" style="html=1;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#474747;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=36;fillColor=#000000;strokeWidth=1.7999999999999998;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="24" y="-1015" width="506" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-1" value="CIUDAD" style="html=1;whiteSpace=wrap;fontSize=11;spacing=0;strokeColor=#474747;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=36;fillColor=#000000;strokeWidth=1.7999999999999998;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="36" y="-1003" width="444" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-2" value="HUB" style="html=1;whiteSpace=wrap;shape=mxgraph.aws3.generic_database;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=11;spacing=5;strokeOpacity=100;fillColor=#7D7C7C;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="467" y="-1150" width="70" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-3" value="HUBDATOS migration workflow/job" style="html=1;whiteSpace=wrap;shape=mxgraph.aws3.database_migration_workflow_job;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=11;spacing=5;strokeOpacity=100;fillColor=#2e73b8;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="72" y="-1150" width="38" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-4" value="" style="html=1;jettySize=18;fontSize=11;strokeWidth=1.2;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.9998;exitY=0.5;exitPerimeter=1;entryX=0.005312759078239452;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="tmitqeF0Fbl4L2ZnJesX-3" target="tmitqeF0Fbl4L2ZnJesX-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-5" value="Ciudades SAPS-HUB (Destino)" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;" vertex="1" parent="tmitqeF0Fbl4L2ZnJesX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-7" value="" style="html=1;jettySize=18;fontSize=11;strokeWidth=1.2;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.9945130316527021;exitY=0.5;exitPerimeter=1;entryX=0.5;entryY=-0.0010458792358108257;entryPerimeter=1;" edge="1" parent="1" source="tmitqeF0Fbl4L2ZnJesX-2" target="tmitqeF0Fbl4L2ZnJesX-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-8" value="CIUDAD" style="html=1;whiteSpace=wrap;shape=mxgraph.aws3.table;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=11;spacing=5;strokeOpacity=100;fillColor=#2e73b8;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-991" width="72" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-9" value="Si la ciudad existe" style="html=1;whiteSpace=wrap;rhombus;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="216" y="-992" width="96" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-10" value="" style="html=1;jettySize=18;fontSize=11;strokeWidth=1.2;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.49999999999999983;exitPerimeter=1;entryX=-0.010416666666666696;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="tmitqeF0Fbl4L2ZnJesX-8" target="tmitqeF0Fbl4L2ZnJesX-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-11" value="Actualiza" style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="359" y="-992" width="96" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-12" value="SI" style="html=1;jettySize=18;fontSize=11;fontColor=#000000;strokeWidth=1.2;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.0104166666666665;exitY=0.5;exitPerimeter=1;entryX=-0.00625;entryY=0.5;entryPerimeter=1;" edge="1" parent="1" source="tmitqeF0Fbl4L2ZnJesX-9" target="tmitqeF0Fbl4L2ZnJesX-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-13" value="Inserta" style="html=1;whiteSpace=wrap;;fontSize=11;fontColor=#000000;spacing=5;strokeOpacity=100;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="359" y="-907" width="96" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-14" value="No" style="html=1;jettySize=18;fontSize=11;fontColor=#000000;strokeWidth=1.2;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.0104166666666667;exitPerimeter=1;entryX=0.1870233379962265;entryY=0.5444680393310097;entryPerimeter=1;" edge="1" parent="1" source="tmitqeF0Fbl4L2ZnJesX-9" target="tmitqeF0Fbl4L2ZnJesX-13">
+          <mxGeometry width="100" height="100" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmitqeF0Fbl4L2ZnJesX-15" value="No" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;" vertex="1" parent="tmitqeF0Fbl4L2ZnJesX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
