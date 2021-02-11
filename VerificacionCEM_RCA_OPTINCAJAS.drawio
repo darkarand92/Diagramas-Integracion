@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-02-11T16:29:23.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.3.1" etag="Kk4rqyf0VEgPKH1AuMvi" type="github"><diagram id="jRUa7CmP3Hj68sWpnTIv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-11T16:35:50.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="usOpm7FntE0Fk564nGSI" version="14.3.1" type="github">
+  <diagram id="jRUa7CmP3Hj68sWpnTIv" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-2" value="CM" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-4" target="leoHcR-mOVmNYC5LzMCW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-4" value="" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="261.5" width="630" height="308.5" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-5" value="SSIS OPTIN CAJAS" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.application_integration;" vertex="1" parent="1">
+          <mxGeometry x="32" y="220" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-7" target="leoHcR-mOVmNYC5LzMCW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-7" value="CM.DBO.TBL_CUSTOMERS_OPTIN" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678113-database-128.png" vertex="1" parent="1">
+          <mxGeometry x="180" y="285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-9" target="leoHcR-mOVmNYC5LzMCW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-9" value="RCA.VISTABI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678113-database-128.png" vertex="1" parent="1">
+          <mxGeometry x="420" y="285" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-12" target="leoHcR-mOVmNYC5LzMCW-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-14" value="HUB.CLIENTEAUTORIZACION" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678113-database-128.png" vertex="1" parent="1">
+          <mxGeometry x="305" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-15" value="COMPARACION RCA CEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="228" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-18" target="leoHcR-mOVmNYC5LzMCW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-18" value="UPDATECUSTOMER" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/service_broker.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="780" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-21" target="leoHcR-mOVmNYC5LzMCW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-21" value="Services HUBDATOS" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leoHcR-mOVmNYC5LzMCW-22" target="leoHcR-mOVmNYC5LzMCW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leoHcR-mOVmNYC5LzMCW-22" value="Se asigna el atributo a los clientes en la tabla CLIENTESAUTORIZACION se prende la marca PUBLICACEM =0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="795" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
